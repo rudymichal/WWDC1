@@ -195,6 +195,10 @@ label {
 	cursor: pointer;
 }
 
+.no-thanks {
+	background: #f4495b; 
+}
+
 .small-submit {
 	width: 100%;
 	max-width: 140px;
