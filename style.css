@@ -103,6 +103,7 @@ select {
 	background: transparent;
 	color: #c6c6c6;
 	-webkit-appearance: none;
+	-moz-appearance: none;
 }
 
 .change-checkbox {
